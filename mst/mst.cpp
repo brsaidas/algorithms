@@ -18,7 +18,7 @@ struct Trio {
 };
 
 long double dist(Point a, Point b) {
-  return sqrt(SQ(a.x - b.x) + SQ(a.y - a.y));
+  return sqrt(SQ(a.x - b.x) + SQ(a.y - b.y));
 }
 
 Point p[N];
@@ -55,14 +55,12 @@ int main() {
   
   //-----input reading-----
   
-  int n; cin >> n;
-  cin.ignore();
+  int n; cin >> n >> ws;
   
   for (int i = 0; i < n; i++) {
     getline(cin, s[i]);
     
-    cin >> p[i].x >> p[i].y;  
-    cin.ignore();
+    cin >> p[i].x >> p[i].y >> ws;
   }
   
   //-----Kruskal Algorithm-----
