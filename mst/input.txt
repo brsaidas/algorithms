@@ -1,0 +1,37 @@
+18
+Paracatu
+303 700
+Montes Claros
+431 691
+Teofilo Otoni
+549 742
+Uberlandia
+242 791
+Diamantina
+447 770
+Governador Valadares
+523 794
+Uberaba
+262 835
+Divinopolis
+385 851
+Belo Horizonte
+437 843
+Ipatinga
+493 837
+Manhuacu
+519 859
+Passos
+308 880
+Conselheiro Lafaiete
+429 884
+Muriae
+498 908
+Pocos de Caldas
+323 930
+Varginha
+366 918
+Juiz de Fora
+447 936
+Pouso Alegre
+346 956
