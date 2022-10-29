@@ -1,19 +1,19 @@
 Distancia MST: 2596.18Km
 Arestas:
-(Ipatinga, Manhuacu)
-(Pocos de Caldas, Pouso Alegre)
-(Belo Horizonte, Conselheiro Lafaiete)
-(Varginha, Pouso Alegre)
-(Uberlandia, Uberaba)
-(Passos, Pocos de Caldas)
-(Governador Valadares, Ipatinga)
-(Divinopolis, Belo Horizonte)
-(Manhuacu, Muriae)
-(Conselheiro Lafaiete, Juiz de Fora)
-(Belo Horizonte, Ipatinga)
-(Teofilo Otoni, Governador Valadares)
-(Uberaba, Passos)
-(Divinopolis, Varginha)
-(Diamantina, Belo Horizonte)
-(Montes Claros, Diamantina)
-(Paracatu, Uberlandia)
+(Ipatinga, Manhuacu) -> 90.26Km
+(Pocos de Caldas, Pouso Alegre) -> 91.99Km
+(Belo Horizonte, Conselheiro Lafaiete) -> 110.70Km
+(Varginha, Pouso Alegre) -> 113.80Km
+(Uberlandia, Uberaba) -> 128.08Km
+(Passos, Pocos de Caldas) -> 138.33Km
+(Governador Valadares, Ipatinga) -> 138.94Km
+(Divinopolis, Belo Horizonte) -> 139.42Km
+(Manhuacu, Muriae) -> 141.27Km
+(Conselheiro Lafaiete, Juiz de Fora) -> 145.82Km
+(Belo Horizonte, Ipatinga) -> 149.25Km
+(Teofilo Otoni, Governador Valadares) -> 154.07Km
+(Uberaba, Passos) -> 170.53Km
+(Divinopolis, Varginha) -> 184.55Km
+(Diamantina, Belo Horizonte) -> 195.26Km
+(Montes Claros, Diamantina) -> 213.60Km
+(Paracatu, Uberlandia) -> 290.32Km

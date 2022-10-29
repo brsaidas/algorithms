@@ -59,7 +59,7 @@ int main() {
   
   for (int i = 0; i < n; i++) {
     getline(cin, s[i]);
-    
+	
     cin >> p[i].x >> p[i].y >> ws;
   }
   
@@ -78,7 +78,7 @@ int main() {
   
   int cnt = 0; //number of vertices added in the MST
   long double w = 0.; //total weight of the mst
-  vector<pair<int, int>> edges; //edge added in MST
+  vector<Trio> edges; //edge added in MST
   
   while (!pq.empty()) {
     Trio x = pq.top(); pq.pop();
@@ -89,7 +89,7 @@ int main() {
       cnt++;
       w += x.d;
       
-      edges.push_back({x.a, x.b});
+      edges.push_back(x);
       
       if (cnt == n) break;
     }
@@ -103,5 +103,6 @@ int main() {
   cout << "Arestas:" << '\n';
   
   for (auto x : edges)
-    cout << "(" << s[x.first] << ", " << s[x.second] << ")\n";
+    cout << "(" << s[x.a] << ", " << s[x.b] << ") -> " << 
+		fixed << setprecision(2) << (x.d * 2.65) << "Km\n";
 }
