@@ -1,4 +1,4 @@
-## MST
+## MST - Minimum Spanning Tree
 
 Given the regions of Minas Gerais, it was asked to develop an algorithm to find the MST for them.
 
